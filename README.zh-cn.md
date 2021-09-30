@@ -14,7 +14,7 @@ _语言: 中文, [英文](README.md), [越南文](README-vi.md), [印度尼西�
 <a href="https://www.buymeacoffee.com/jonataslaw" target="_blank"><img src="https://i.imgur.com/aV6DDA7.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important; box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" > </a>
 
 ![](https://raw.githubusercontent.com/jonataslaw/getx-community/master/getx.png)
-
+TEST SORRY
 - [关于Get](#关于get)
 - [安装](#安装)
 - [GetX的计数器示例](#getx的计数器示例)
